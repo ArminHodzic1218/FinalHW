@@ -1,0 +1,6 @@
+c:\users\amin\documents\visual studio 2013\Projects\FinalHW\FinalHW\bin\Debug\FinalHW.exe.config
+c:\users\amin\documents\visual studio 2013\Projects\FinalHW\FinalHW\obj\Debug\FinalHW.csprojResolveAssemblyReference.cache
+c:\users\amin\documents\visual studio 2013\Projects\FinalHW\FinalHW\bin\Debug\FinalHW.exe
+c:\users\amin\documents\visual studio 2013\Projects\FinalHW\FinalHW\bin\Debug\FinalHW.pdb
+c:\users\amin\documents\visual studio 2013\Projects\FinalHW\FinalHW\obj\Debug\FinalHW.exe
+c:\users\amin\documents\visual studio 2013\Projects\FinalHW\FinalHW\obj\Debug\FinalHW.pdb
